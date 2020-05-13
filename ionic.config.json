@@ -1,0 +1,7 @@
+{
+  "name": "ionic-img-download",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
